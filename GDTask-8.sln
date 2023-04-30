@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDTask-8", "GDTask-8\GDTask-8.csproj", "{31350F47-A78A-45BB-A5E0-E14AB6A66A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31350F47-A78A-45BB-A5E0-E14AB6A66A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31350F47-A78A-45BB-A5E0-E14AB6A66A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31350F47-A78A-45BB-A5E0-E14AB6A66A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31350F47-A78A-45BB-A5E0-E14AB6A66A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C88B492-5F50-4C0A-B168-C870DA3C05E7}
+	EndGlobalSection
+EndGlobal
